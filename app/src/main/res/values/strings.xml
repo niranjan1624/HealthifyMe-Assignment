@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HealthifyMe</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Choose a Date and Time</string>
+</resources>
